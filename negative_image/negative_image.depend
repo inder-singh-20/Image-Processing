@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587881939 source:c:\users\inder\desktop\image proccessing\negative_image\main.c
+	<stdio.h>
+	<stdlib.h>
+

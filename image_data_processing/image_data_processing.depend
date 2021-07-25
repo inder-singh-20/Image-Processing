@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588227872 source:c:\users\inder\desktop\image proccessing\image_data_processing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

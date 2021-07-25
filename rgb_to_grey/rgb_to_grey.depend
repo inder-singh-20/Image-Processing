@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587829730 source:c:\users\inder\desktop\image proccessing\rgb_to_grey\main.c
+	<stdio.h>
+	<stdlib.h>
+

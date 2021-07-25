@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587964871 source:c:\users\inder\desktop\image proccessing\discrete_convolution\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mask.h"
+
+1587895773 c:\users\inder\desktop\image proccessing\discrete_convolution\mask.h
+
